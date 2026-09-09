@@ -1,0 +1,3 @@
+/home/leder/projects/NexusKV/NexusKV/build/CMakeFiles/nexuskv.dir
+/home/leder/projects/NexusKV/NexusKV/build/CMakeFiles/edit_cache.dir
+/home/leder/projects/NexusKV/NexusKV/build/CMakeFiles/rebuild_cache.dir
