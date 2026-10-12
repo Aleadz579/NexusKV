@@ -1,6 +1,6 @@
 #include <iostream>
 
 int main() {
-    std::cout << "Hello, World!" << std::endl;
+    Introduction(); // checker checken halt "willkomen bei nexuskv wir sind blabla"
     return 0;
 }
