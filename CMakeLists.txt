@@ -8,4 +8,5 @@ set(CMAKE_CXX_EXTENSIONS OFF)
 
 add_executable(nexuskv
     src/main.cpp
+    src/introduction.cpp
 )
