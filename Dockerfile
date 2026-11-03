@@ -10,4 +10,7 @@ WORKDIR /app
 #Kopiert alles im oberen ordner(NexusKV) in den basis ordner von dem Image
 COPY . .
 
-CMD ["build/nexuskv"]
+RUN cmake -S . -B build -G Ninja
+RUN cmake --build build
+
+CMD ["./build/nexuskv"]
