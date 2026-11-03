@@ -3,6 +3,6 @@
 #include "introduction.cpp"
 
 int main() {
-    introduction(); // checker checken halt "willkomen bei nexuskv wir sind blabla"
+    introduction();
     return 0;
 }
