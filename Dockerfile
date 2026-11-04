@@ -1,5 +1,5 @@
 # syntax=docker/dockerfile:1
-FROM ubuntu:22.04
+FROM ubuntu:26.04
 
 # Install dependencies, denk dran alle neu hinzufügen sobald neue da sind
 RUN apt update && apt install -y ninja-build cmake g++ 
